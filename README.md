@@ -68,7 +68,7 @@ plt.show()
 <br>
 <H3>Output:</H3>
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/db677ec4-2f37-461c-8f5a-cfc642a29485)
 
 <H3>Results:</H3>
 
